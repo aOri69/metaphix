@@ -1,0 +1,12 @@
+[workspace]
+resolver = "3"
+
+[package]
+name = "metaphix"
+version = "0.1.0"
+edition = "2024"
+license-file = "LICENSE"
+description = "A tool to read and write metadata in various image formats."
+repository = "https://github.com/aOri69/metaphix.git"
+
+[dependencies]
